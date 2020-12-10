@@ -1,0 +1,39 @@
+GAM537 Assignment 3 
+
+Donwloaded Content Folders You should already have them in Assignment 2 folder
+These are in .gitignore, and need to be copied from A2 folder to A3 folder
+Steps:
+1. Clone the A3 repository
+2. Copy over below content folders from local A2 Content folder to new A3 Content Folder
+
+Content/ModSci_EngiProps
+Content/ModSci_Engineer
+Content/ModSciInteriors
+Content/PN_giantReed 
+Content/PN_mediterraneanPlants_I
+Content/PN_mediterraneanPlants_II
+Content/PN_Pandanus
+Content/SpaceshipInterior
+Content/StarterBundle
+Content/StarterContent
+
+
+
+Do the same as above for below:
+If any are missing, here are the links to dowload and add them to the project.
+These are the NPC followers and random movement robots
+
+# https://www.unrealengine.com/marketplace/en-US/product/paragon-crunch
+Content/ParagonCrunch
+# https://www.unrealengine.com/marketplace/en-US/product/paragon-gadget
+Content/ParagonGadget
+# https://www.unrealengine.com/marketplace/en-US/product/paragon-grim-exe
+Content/ParagonGRIMexe
+# https://www.unrealengine.com/marketplace/en-US/product/paragon-lt-belica
+Content/ParagonLtBelica
+# https://www.unrealengine.com/marketplace/en-US/product/paragon-muriel
+Content/ParagonMuriel
+# https://www.unrealengine.com/marketplace/en-US/product/paragon-wraith
+Content/ParagonWraith
+
+
